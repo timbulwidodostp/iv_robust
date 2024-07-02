@@ -1,6 +1,8 @@
 # iv_robust
 Two-Stage Least Squares Instrumental Variables Regression Use iv_robust With (In) R Software
 
+https://www.youtube.com/watch?v=ddD1s5fA0T0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
